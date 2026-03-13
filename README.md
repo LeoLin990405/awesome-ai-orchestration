@@ -84,8 +84,8 @@ They are complementary, not competing. See [Survey of Agent Interoperability Pro
 | [PydanticAI](https://github.com/pydantic/pydantic-ai) | Python | Type-safe agents with structured I/O / 类型安全的结构化 I/O Agent | ![GitHub stars](https://img.shields.io/github/stars/pydantic/pydantic-ai) |
 | [PraisonAI](https://github.com/MervinPraison/PraisonAI) | Python | Low-code multi-agent with YAML config / 低代码 YAML 配置多 Agent | ![GitHub stars](https://img.shields.io/github/stars/MervinPraison/PraisonAI) |
 | [Swarm](https://github.com/openai/swarm) | Python | Educational multi-agent patterns / 教育性多 Agent 模式 | ![GitHub stars](https://img.shields.io/github/stars/openai/swarm) |
-| [MetaGPT](https://github.com/geekan/MetaGPT) | Python | Software company simulation / 软件公司模拟（产品经理→架构师→工程师） | ![GitHub stars](https://img.shields.io/github/stars/geekan/MetaGPT) |
-| [DeerFlow](https://github.com/bytedance/deer-flow) | Python | ByteDance SuperAgent. Sub-agents, memory, sandboxes. / 字节跳动超级 Agent。子 Agent + 记忆 + 沙箱。 | ![GitHub stars](https://img.shields.io/github/stars/bytedance/deer-flow) |
+| [MetaGPT](https://github.com/geekan/MetaGPT) | Python | Software company simulation. ↗ [Chinese AI](#chinese-ai-orchestration--中国特色-ai-编排) / 软件公司模拟（产品经理→架构师→工程师） | ![GitHub stars](https://img.shields.io/github/stars/geekan/MetaGPT) |
+| [DeerFlow](https://github.com/bytedance/deer-flow) | Python | ByteDance SuperAgent. Sub-agents, memory, sandboxes. ↗ [Chinese AI](#chinese-ai-orchestration--中国特色-ai-编排) / 字节跳动超级 Agent。子 Agent + 记忆 + 沙箱。 | ![GitHub stars](https://img.shields.io/github/stars/bytedance/deer-flow) |
 | [Strands Agents](https://github.com/strands-agents/sdk-python) | Python | Hierarchical planning, multi-step reasoning (AWS) / 层级规划，多步推理（AWS） | ![GitHub stars](https://img.shields.io/github/stars/strands-agents/sdk-python) |
 | [LlamaIndex Workflows](https://github.com/run-llama/llama_index) | Python | Data-aware agent workflows / 数据感知 Agent 工作流 | ![GitHub stars](https://img.shields.io/github/stars/run-llama/llama_index) |
 | [Haystack](https://github.com/deepset-ai/haystack) | Python | Composable AI pipelines / 可组合 AI 管道 | ![GitHub stars](https://img.shields.io/github/stars/deepset-ai/haystack) |
@@ -147,9 +147,8 @@ Role-playing research                → CAMEL
 | [Aider](https://github.com/Aider-AI/aider) | Open Source / 开源 | ![GitHub stars](https://img.shields.io/github/stars/Aider-AI/aider) | Terminal AI pair programming. Git-native, 100+ languages. / 终端 AI 结对编程。Git 原生，100+ 语言。 |
 | [Roo Code](https://github.com/RooCodeInc/Roo-Code) | Open Source / 开源 | ![GitHub stars](https://img.shields.io/github/stars/RooCodeInc/Roo-Code) | VS Code extension. Multi-mode (Architect/Developer/Tester). / VS Code 扩展。多模式（架构师/开发者/测试者）。 |
 | [Cline](https://github.com/cline/cline) | Open Source / 开源 | ![GitHub stars](https://img.shields.io/github/stars/cline/cline) | VS Code/JetBrains. 5M+ installs. MCP marketplace. / 500 万+ 安装。MCP 市场。 |
-| [OpenClaw](https://github.com/openclaw/openclaw) | Open Source / 开源 | ![GitHub stars](https://img.shields.io/github/stars/openclaw/openclaw) | 210K+ stars. Self-improving, writes own skills. / 21 万+ stars。自我改进，编写自己的技能。 |
+| [OpenClaw](https://github.com/openclaw/openclaw) | Open Source / 开源 | ![GitHub stars](https://img.shields.io/github/stars/openclaw/openclaw) | 210K+ stars. Self-improving, writes own skills. ↗ [Personal AI](#personal-ai-assistants--个人-ai-助手) / 21 万+ stars。自我改进。 |
 | [Open SWE](https://github.com/langchain-ai/open-swe) | Open Source / 开源 | ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/open-swe) | LangChain's async coding agent on LangGraph. / LangChain 基于 LangGraph 的异步编码 Agent。 |
-| [DeerFlow](https://github.com/bytedance/deer-flow) | Open Source / 开源 | ![GitHub stars](https://img.shields.io/github/stars/bytedance/deer-flow) | ByteDance SuperAgent. Docker sandbox. / 字节跳动超级 Agent。Docker 沙箱。 |
 | [Mini SWE-agent](https://github.com/SWE-agent/mini-swe-agent) | Open Source / 开源 | ![GitHub stars](https://img.shields.io/github/stars/SWE-agent/mini-swe-agent) | 100-line agent, 65%+ on SWE-bench. / 100 行代码，SWE-bench 65%+。 |
 | [Devin](https://devin.ai/) | Commercial / 商业 | N/A | Cognition Labs. $10.2B valuation. Cloud sandbox. / $102 亿估值。云沙箱。 |
 
@@ -167,7 +166,7 @@ Role-playing research                → CAMEL
 | [MCO](https://github.com/mco-org/mco) | Neutral orchestration layer for Claude Code, Codex, Gemini, OpenCode, Qwen / 中立编排层，支持 Claude Code、Codex、Gemini、OpenCode、Qwen | ![GitHub stars](https://img.shields.io/github/stars/mco-org/mco) |
 | [agent-orchestrator](https://github.com/ComposioHQ/agent-orchestrator) | Plan tasks, spawn agents, handle CI fixes and merge conflicts / 规划任务、生成 Agent、处理 CI 修复和合并冲突 | ![GitHub stars](https://img.shields.io/github/stars/ComposioHQ/agent-orchestrator) |
 | [crystal](https://github.com/stravu/crystal) | Run multiple Codex and Claude Code in parallel git worktrees / 在并行 git worktree 中运行多个 Codex 和 Claude Code | ![GitHub stars](https://img.shields.io/github/stars/stravu/crystal) |
-| [CCB (Claude Code Bridge)](https://github.com/bfly123/claude_code_bridge) | Real-time multi-AI collaboration via split-pane terminal. 8 providers. 50-200 tokens/call. / 通过分屏终端实时多 AI 协作。8 个 Provider。每次调用仅 50-200 tokens。 | ![GitHub stars](https://img.shields.io/github/stars/bfly123/claude_code_bridge) |
+| [CCB (Claude Code Bridge)](https://github.com/bfly123/claude_code_bridge) | Real-time multi-AI collaboration. 8 providers. 50-200 tokens/call. ↗ [Details / 详情](#ccb-claude-code-bridge--claude-代码桥) / 实时多 AI 协作。详见中国特色章节。 | ![GitHub stars](https://img.shields.io/github/stars/bfly123/claude_code_bridge) |
 | [dmux](https://github.com/standardagents/dmux) | Parallel agents with tmux and worktrees / tmux + worktree 并行 Agent | ![GitHub stars](https://img.shields.io/github/stars/standardagents/dmux) |
 | [amux](https://github.com/andyrewlee/amux) | TUI for running parallel coding agents / 并行编码 Agent 的 TUI 界面 | ![GitHub stars](https://img.shields.io/github/stars/andyrewlee/amux) |
 | [cmux](https://github.com/manaflow-ai/cmux) | Open-source platform for parallel coding agents / 并行编码 Agent 的开源平台 | ![GitHub stars](https://img.shields.io/github/stars/manaflow-ai/cmux) |
@@ -240,13 +239,13 @@ Role-playing research                → CAMEL
 
 | Tool / 工具 | Description / 描述 | Stars |
 |------|-------------|-------|
-| [Dify](https://github.com/langgenius/dify) | Open-source LLM app platform. Visual workflows + RAG + agent orchestration. 129K+ stars. / 开源 LLM 应用平台，可视化工作流 + RAG + Agent 编排。 | ![GitHub stars](https://img.shields.io/github/stars/langgenius/dify) |
-| [MetaGPT](https://github.com/geekan/MetaGPT) | Shenzhen DeepWisdom. Simulates software company (PM → Architect → Engineer) with SOP. / 深圳 DeepWisdom 团队。模拟软件公司，按 SOP 协同开发。 | ![GitHub stars](https://img.shields.io/github/stars/geekan/MetaGPT) |
-| [DeerFlow](https://github.com/bytedance/deer-flow) | ByteDance SuperAgent. Sub-agents + memory + sandboxes. GitHub Trending #1. MIT license. / 字节跳动超级 Agent。子 Agent + 记忆 + 沙箱。GitHub Trending #1。MIT 协议。 | ![GitHub stars](https://img.shields.io/github/stars/bytedance/deer-flow) |
+| [Dify](https://github.com/langgenius/dify) | Open-source LLM app platform. 129K+ stars. ↗ [Low-Code](#low-code--visual-platforms--低代码可视化平台) / 开源 LLM 应用平台。详见低代码章节。 | ![GitHub stars](https://img.shields.io/github/stars/langgenius/dify) |
+| [MetaGPT](https://github.com/geekan/MetaGPT) | Shenzhen DeepWisdom. Simulates software company with SOP. ↗ [Frameworks](#multi-agent-frameworks--多-agent-框架) / 深圳 DeepWisdom。详见框架章节。 | ![GitHub stars](https://img.shields.io/github/stars/geekan/MetaGPT) |
+| [DeerFlow](https://github.com/bytedance/deer-flow) | ByteDance SuperAgent. GitHub Trending #1. ↗ [Frameworks](#multi-agent-frameworks--多-agent-框架) / 字节跳动超级 Agent。详见框架章节。 | ![GitHub stars](https://img.shields.io/github/stars/bytedance/deer-flow) |
 | [Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) | Alibaba Qwen official agent framework. Function Calling, Code Interpreter, RAG. / 阿里通义千问官方 Agent 框架，支持 Function Calling、Code Interpreter、RAG。 | ![GitHub stars](https://img.shields.io/github/stars/QwenLM/Qwen-Agent) |
 | [Open WebUI](https://github.com/open-webui/open-webui) | Self-hosted AI platform. 282M+ downloads, 124K+ stars. Offline capable. / 自托管 AI 平台，2.82 亿+ 下载，支持离线运行。 | ![GitHub stars](https://img.shields.io/github/stars/open-webui/open-webui) |
-| [RAGFlow](https://github.com/infiniflow/ragflow) | Deep document understanding RAG engine with agent orchestration. / 深度文档理解的 RAG 引擎，支持 Agent 编排和知识库管理。 | ![GitHub stars](https://img.shields.io/github/stars/infiniflow/ragflow) |
-| [CAMEL](https://github.com/camel-ai/camel) | 1st LLM multi-agent framework. Research on agent scaling laws. / 第一个 LLM 多 Agent 框架，专注 Agent 扩展定律研究。 | ![GitHub stars](https://img.shields.io/github/stars/camel-ai/camel) |
+| [RAGFlow](https://github.com/infiniflow/ragflow) | Deep document understanding RAG engine. ↗ [Low-Code](#low-code--visual-platforms--低代码可视化平台) / 深度文档理解 RAG 引擎。详见低代码章节。 | ![GitHub stars](https://img.shields.io/github/stars/infiniflow/ragflow) |
+| [CAMEL](https://github.com/camel-ai/camel) | 1st LLM multi-agent framework. ↗ [Frameworks](#multi-agent-frameworks--多-agent-框架) / 首个 LLM 多 Agent 框架。详见框架章节。 | ![GitHub stars](https://img.shields.io/github/stars/camel-ai/camel) |
 | [Coze (扣子)](https://www.coze.com/) | ByteDance agent platform. Rich plugin ecosystem, visual workflow orchestration. / 字节跳动 Agent 平台，丰富插件生态，可视化工作流编排。 | N/A |
 
 ---
@@ -306,7 +305,7 @@ Role-playing research                → CAMEL
 
 | Tool / 工具 | Description / 描述 | Stars |
 |------|-------------|-------|
-| [OpenClaw](https://github.com/openclaw/openclaw) | 210K+ stars. Self-improving, writes own skills. 20+ platforms. / 21 万+ stars。自我改进，编写自己的技能。20+ 平台。 | ![GitHub stars](https://img.shields.io/github/stars/openclaw/openclaw) |
+| [OpenClaw](https://github.com/openclaw/openclaw) | 210K+ stars. Self-improving, 20+ platforms. ↗ [Coding Agents](#autonomous-coding-agents--自主编码-agent) / 21 万+ stars。自我改进。详见编码 Agent 章节。 | ![GitHub stars](https://img.shields.io/github/stars/openclaw/openclaw) |
 | [Leon](https://github.com/leon-ai/leon) | Open-source personal assistant (voice + text) / 开源个人助手（语音+文字） | ![GitHub stars](https://img.shields.io/github/stars/leon-ai/leon) |
 | [BabyAGI](https://github.com/yoheinakajima/babyagi3) | Minimal AI agent — configure once, run via natural language / 极简 AI Agent — 配置一次，自然语言运行 | ![GitHub stars](https://img.shields.io/github/stars/yoheinakajima/babyagi3) |
 | [Happy](https://github.com/slopus/happy) | Mobile/web client for Claude Code, Codex, Gemini CLI. E2E encrypted. / AI CLI 的移动/Web 客户端。端到端加密。 | ![GitHub stars](https://img.shields.io/github/stars/slopus/happy) |
@@ -434,7 +433,6 @@ Role-playing research                → CAMEL
 |----------|-------------|
 | [Awesome-Agent-Papers](https://github.com/luo-junyu/Awesome-Agent-Papers) | Up-to-date paper collection on LLM agents / 持续更新的 LLM Agent 论文集 |
 | [LLM-Agent-Survey](https://github.com/xinzhel/LLM-Agent-Survey) | Survey on LLM Agents (CoLing 2025) / LLM Agent 综述（CoLing 2025） |
-| [free-ai-agents-resources](https://github.com/avinash201199/free-ai-agents-resources) | Free AI Agents Resources — 2026 Learning Hub / 免费 AI Agent 资源中心 |
 
 ---
 
@@ -472,7 +470,6 @@ Role-playing research                → CAMEL
 
 | Resource / 资源 | Description / 描述 |
 |----------|-------------|
-| [free-ai-agents-resources](https://github.com/avinash201199/free-ai-agents-resources) | All-in-one 2026 learning hub / 2026 一站式学习中心 |
 | [15 FREE AI Agent Courses](https://www.analyticsvidhya.com/blog/2025/10/free-ai-agent-courses/) | Curated list with certificates / 带证书的精选列表 |
 | [CrewAI vs LangGraph vs AutoGen Tutorial](https://www.datacamp.com/tutorial/crewai-vs-langgraph-vs-autogen) | DataCamp hands-on comparison / DataCamp 动手对比 |
 
@@ -512,7 +509,8 @@ Role-playing research                → CAMEL
 - [awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) — General AI tools collection / AI 工具集合
 - [500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) — 500 AI agent use cases / 500 个 AI Agent 用例
 - [awesome-AI-driven-development](https://github.com/eltociear/awesome-AI-driven-development) — AI-driven development tools / AI 驱动的开发工具
-- [Awesome-Agent-Papers](https://github.com/luo-junyu/Awesome-Agent-Papers) — LLM agent research papers / LLM Agent 研究论文
+- [Awesome-Agent-Papers](https://github.com/luo-junyu/Awesome-Agent-Papers) — LLM agent research papers / LLM Agent 研究论文 ↗ [Papers](#academic-papers--学术论文)
+- [free-ai-agents-resources](https://github.com/avinash201199/free-ai-agents-resources) — Free 2026 learning hub / 免费 AI Agent 资源中心
 
 ---
 
