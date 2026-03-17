@@ -1,10 +1,21 @@
-# Awesome AI Orchestration [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<div align="center">
 
-> A curated list of frameworks, tools, protocols, and resources for orchestrating AI agents — from multi-agent coding to enterprise workflow automation.
->
-> 精选的 AI Agent 编排框架、工具、协议和资源列表 — 涵盖多 Agent 编程到企业工作流自动化。
+# Awesome AI Orchestration
 
-[English](#contents) | [中文](#目录)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![GitHub stars](https://img.shields.io/github/stars/LeoLin990405/awesome-ai-orchestration?style=social)](https://github.com/LeoLin990405/awesome-ai-orchestration/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/LeoLin990405/awesome-ai-orchestration)](https://github.com/LeoLin990405/awesome-ai-orchestration/issues)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/LeoLin990405/awesome-ai-orchestration/pulls)
+
+A curated list of frameworks, tools, protocols, and resources for orchestrating AI agents — from multi-agent coding to enterprise workflow automation.
+
+精选的 AI Agent 编排框架、工具、协议和资源列表 — 涵盖多 Agent 编程到企业工作流自动化。
+
+</div>
+
+---
+
+[English](#contents--目录) | [中文](#contents--目录)
 
 The AI agent landscape has exploded in 2025-2026. The bottleneck has shifted from "how do I build an agent?" to **"how do I run multiple agents in parallel without chaos?"** This list covers everything you need.
 
@@ -520,6 +531,12 @@ Contributions welcome! Please read the [contributing guidelines](CONTRIBUTING.md
 
 欢迎贡献！请先阅读[贡献指南](CONTRIBUTING.md)。
 
+- Submit a new resource via [Pull Request](https://github.com/LeoLin990405/awesome-ai-orchestration/pulls)
+- Suggest a resource via [Issue](https://github.com/LeoLin990405/awesome-ai-orchestration/issues/new?template=suggest-resource.yml)
+- Report broken links or outdated entries
+
 ## License / 许可证
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, the maintainers have waived all copyright and related or neighboring rights to this work. See [LICENSE](LICENSE) for details.

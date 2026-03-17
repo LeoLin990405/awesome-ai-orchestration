@@ -1,0 +1,66 @@
+name: Suggest a Resource
+description: Suggest a new tool, framework, paper, or resource to add to the list
+title: "[Suggest]: "
+labels: ["suggestion"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for suggesting a resource! Please fill out the details below.
+  - type: input
+    id: name
+    attributes:
+      label: Resource Name
+      description: Name of the tool, framework, paper, or resource
+      placeholder: e.g., LangGraph
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: URL
+      description: Link to the resource (GitHub repo, paper, website)
+      placeholder: https://github.com/...
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: Which section should this be added to?
+      options:
+        - Protocols & Standards
+        - Multi-Agent Frameworks
+        - Autonomous Coding Agents
+        - Coding Agent Orchestrators
+        - Chinese AI Orchestration
+        - Low-Code / Visual Platforms
+        - Observability & Evaluation
+        - Agent Infrastructure
+        - Personal AI Assistants
+        - Autonomous Loop Runners
+        - Multi-Agent Swarms
+        - Benchmarks & Evaluation
+        - Academic Papers
+        - Courses & Tutorials
+        - Learning Resources
+        - Other / New Category
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Brief description of the resource and why it should be included
+      placeholder: |
+        What it does, why it's notable, star count (if applicable)...
+    validations:
+      required: true
+  - type: input
+    id: stars
+    attributes:
+      label: GitHub Stars (if applicable)
+      description: Approximate number of stars
+      placeholder: e.g., 5000
+    validations:
+      required: false
